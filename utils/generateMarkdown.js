@@ -54,10 +54,10 @@ function generateMarkdown(data) {
 
   ${renderLicenseSection(data.license)}
 
-  ## Contribution
+  ## Contributions
   ${data.contributions}
 
-  ## Test
+  ## Tests
   ${data.tests}
 
   ## Questions
