@@ -75,7 +75,7 @@ function init() {
         .prompt(questions)
         .then((answers) => {
             console.log(answers);
-            writeToFile('FINISHEDREADME.MD', generateMarkdown(answers));
+            writeToFile('SAMPLEREADME.MD', generateMarkdown(answers));
         });
 };
 
