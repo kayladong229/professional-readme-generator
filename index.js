@@ -27,7 +27,7 @@ const questions = [
     {
         type: 'input',
         name: 'usage',
-        message: 'What is the purpose of this project?',
+        message: 'How does this project work?',
     },
     // License information
     {
