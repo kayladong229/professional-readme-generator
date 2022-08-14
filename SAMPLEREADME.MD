@@ -3,7 +3,7 @@
   ![badge](https://img.shields.io/badge/license-MIT-blue)
 
   ## Description
-  This is a command-line application that uses the terminal to create README files using the inquirer package.
+  This is a command-line application that creates README files in the terminal using the inquirer package.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -22,10 +22,10 @@
   ## License
     This application is covered under the MIT license.
 
-  ## Contribution
-  Different users can contribute new questions that can be answered.
+  ## Contributions
+  Other users can contribute new questions that can be answered.
 
-  ## Test
+  ## Tests
   Different README files can be created with varying answers for each question.
 
   ## Questions
