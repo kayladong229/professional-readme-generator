@@ -23,7 +23,7 @@ function renderLicenseLink(license) { //`- [License](#license)`
 function renderLicenseSection(license) {
   if (license !== 'None') {
     return `## License
-    This application is covered under the ${license} license. For more information, please click the following link: [${license}](https://choosealicense.com/licenses/${license})`;
+    This application is covered under the ${license} license.`;
  } else {
   return '';
  }
