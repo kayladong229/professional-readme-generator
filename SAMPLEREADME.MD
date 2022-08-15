@@ -17,7 +17,7 @@
   A copy of the repo can be cloned to the local device.
 
   ## Usage
-  Type "node index.js" and then answer the questions that follow.
+  Type "node index.js" in the terminal and then answer the questions that follow.
 
   ## License
     This application is covered under the MIT license.
